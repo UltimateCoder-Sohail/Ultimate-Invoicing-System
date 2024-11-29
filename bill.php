@@ -175,14 +175,14 @@ p {
 		<header>
 			<h1 style="font-size: large;"><button onclick="window.print()">AR TRADER</button></h1>
 			<address contenteditable>
-				<!-- <h1 style="font-size: large;"><b>AR TRADER</b></h1> -->
-				<p> Deals In: New & Old Motors Parts, Scarps, Accessories<br>Specialist of Body parts 407 , 709 , 1109 , 1109 BS4 , 1613SE , 2515 , 2518 , 3516 , 3718 , 4018
-				<br>38, A.J.C BOSE ROAD, Shop no. 14, KOLKATA-700017</p>
-				<p>E-mail:  aftab9433@gmail.com<br>GSTIN: 19AJCPA9331R1ZS<br>
-					Mobile No. 9433152008
+				<!-- <h1 style="font-size: large;"><b>COMPANY NAME</b></h1> -->
+				<p> DESCRIPTION
+				<br>ADDRESS</p>
+				<p>E-mail: test@test.com <br>GSTIN: 00000000<br>
+					Mobile No. 0000000000
 				</p>
 			</address>
-			<span><img alt="" src="https://www.ultimatecoder.in/images/clients/Arlogo.jpeg" style="height: 100px;"><input type="file" accept="image/*"></span>
+			<span><img alt="" src="#" style="height: 100px;"><input type="file" accept="image/*"></span>
 		</header>
 		<article>
 			<h1>Recipient</h1>
