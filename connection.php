@@ -3,7 +3,7 @@
 $server="localhost";//servername
 $user="root";//username
 $password="";//password 
-$data="ulltimateerp";//database name
+$data="ultimateerp";//database name
 
 $connect =new mysqli($server,$user,$password,$data);//connecting database
 if($connect->connect_error)//checking connection
